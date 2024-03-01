@@ -1,5 +1,5 @@
 {
-  "name": "pxy",
+  "name": "prismicio-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:pxy": "node dist/pxy/server/server.mjs"
+    "serve:ssr:prismicio-angular": "node dist/prismicio-angular/server/server.mjs"
   },
   "private": true,
   "dependencies": {
